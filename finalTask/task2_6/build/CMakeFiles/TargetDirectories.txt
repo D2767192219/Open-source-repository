@@ -1,0 +1,3 @@
+/home/dezso/task2_6/build/CMakeFiles/rebuild_cache.dir
+/home/dezso/task2_6/build/CMakeFiles/task2_6.dir
+/home/dezso/task2_6/build/CMakeFiles/edit_cache.dir
